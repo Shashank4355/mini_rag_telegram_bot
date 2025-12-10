@@ -1,0 +1,7 @@
+python-telegram-bot>=20.0
+sentence-transformers>=2.2.2
+scikit-learn>=1.2
+numpy>=1.23
+tqdm
+python-dotenv
+openai          # optional, only if you will use OpenAI
